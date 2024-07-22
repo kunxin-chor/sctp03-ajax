@@ -1,0 +1,11 @@
+{
+    "book":"The Lord of the Rings",
+    "author":"JRR Tolkien",
+    "pages": 1200,
+    "borrowed": false,
+    "characters":["Aragorn", "Legolas", "Gandalf"],
+    "synopsis": {
+        "chapter1":"Biblo had a birthday party",
+        "chapter2":"Something else had happened"
+    }
+}
